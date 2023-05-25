@@ -34,7 +34,7 @@ If you're an LND node runner seeking self-custodial options and full control ove
 5. **Start the App**: Launch Walletano and connect it to your LND node.
 6. **Enjoy Self-Custodial Wallet**: You now have full control over your funds while using Walletano.
 
-## For Webmasters or Company Owners/Managers
+## For Webmasters or Company Owners / Managers
 
 Transform your corporate email addresses into Lightning addresses and enhance your employees' digital experience. Stand out from the crowd by offering the convenience of Lightning addresses and embracing the advantages of digital currencies:
 
