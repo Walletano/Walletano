@@ -1,23 +1,6 @@
-### Hi there 👋
-
-<!--
-**Walletano/Walletano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Walletano 🚀
 
-Walletano is a web-based app (PWA) that provides an easy and convenient way to manage your Bitcoin and Lightning Network wallets. Whether you're a customer looking for a hassle-free wallet experience, an LND node runner seeking self-custodial options, or a webmaster/company owner looking to transform corporate email addresses into Lightning addresses, Walletano has got you covered! 💼⚡️
+Walletano is a web-based app (PWA) that provides an easy and convenient way to manage your Bitcoin and Lightning Network wallets. Whether you're a customer looking for a hassle-free wallet experience, an LND node runner seeking self-custodial options, or a webmaster / company owner looking to transform corporate email addresses into Lightning addresses, Walletano has got you covered! 💼⚡️
 
 ## Features
 
@@ -53,7 +36,7 @@ If you're an LND node runner seeking self-custodial options and full control ove
 
 Transform your corporate email addresses into Lightning addresses and enhance your employees' digital experience. Stand out from the crowd by offering the convenience of Lightning addresses and embracing the advantages of digital currencies:
 
-1. **Install Walletano Plugin**: Ask your webmaster to install the Walletano Email-to-Lightning plugin on your website.
+1. **Install Walletano Plugin**: Ask your webmaster to install the Walletano Email-to-Lightning plugin (https://github.com/Walletano/Walletano-Email-to-Lightning) on your website.
 2. **Setup Instructions**: Follow the step-by-step instructions in the repository's README to transform corporate email addresses into Lightning addresses.
 3. **Enhance Employee Experience**: Empower your employees with Lightning addresses and provide the option to receive all or part of their salaries in Bitcoin.
 
