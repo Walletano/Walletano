@@ -44,8 +44,8 @@ Transform your corporate email addresses into Lightning addresses and enhance yo
 
 Have questions or need assistance? Our dedicated team is here to help!
 
-- Telegram: [Telegram handle]
-- Twitter: [@Walletano]
+- Telegram: [https://t.me/walletano]
+- Twitter: [https://twitter.com/Walletano]
 - Email: [support@walletano.com]
 
 Feel free to reach out to us anytime! We look forward to serving you on your cryptocurrency journey. 🌟
