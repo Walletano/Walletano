@@ -50,5 +50,5 @@ Have questions or need assistance? Our dedicated team is here to help!
 - Twitter: [https://twitter.com/Walletano]
 - Email: [support@walletano.com]
 
-Feel free to reach out to us anytime! We look forward to serving you on your cryptocurrency journey. 🌟
+Feel free to reach out to us anytime! We look forward to serving you on your Bitcoin / Lightning journey. 🌟
 
