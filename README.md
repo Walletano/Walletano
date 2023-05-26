@@ -11,8 +11,8 @@ Walletano is a web-based app (PWA) that provides an easy and convenient way to m
 - 🔄 **Multi-Wallet Management**: Effortlessly manage multiple wallets with a unified and intuitive design.
 - 🕵️ **Privacy-Oriented**: No usernames or email addresses required, ensuring your personal information remains confidential.
 - ✉️ **Transform Corporate Email Addresses**: Convert your corporate email addresses into Lightning addresses effortlessly.
-- ⚡️ Lightning Address Support: Create personalized Lightning addresses (e.g., you@walletano.com) or integrate your own corporate Lightning addresses (e.g., you@yourdomain.com).
-- 🔄 LNURL Support: Seamlessly interact with LNURL-enabled services for enhanced functionality and versatility.
+- ⚡️ **Lightning Address Support**: Create personalized Lightning addresses (e.g., you@walletano.com) or integrate your own corporate Lightning addresses (e.g., you@yourdomain.com).
+- 🔄 **LNURL Support**: Seamlessly interact with LNURL-enabled services for enhanced functionality and versatility.
 
 ## For Customers
 
